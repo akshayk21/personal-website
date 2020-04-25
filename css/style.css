@@ -593,6 +593,8 @@ body.offcanvas {
     background: #bcff7d; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-7 {
     background: #e89164; }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-8 {
+    background: #f099d0; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
@@ -835,6 +837,19 @@ body.offcanvas {
       background: #4054b2; }
     .progress-bar.color-6 span {
       color: #4054b2; }
+  .progress-bar.color-7 {
+    background: #a87132; }
+    .progress-bar.color-7:after {
+      background: #a87132; }
+    .progress-bar.color-7 span {
+      color: #a87132; }
+  .progress-bar.color-8 {
+    background: #f099d0; }
+    .progress-bar.color-8:after {
+      background: #f099d0; }
+    .progress-bar.color-8 span {
+      color: #f099d0; }
+
 
 .colorlib-feature {
   text-align: left;
